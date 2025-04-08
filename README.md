@@ -9,3 +9,9 @@ Note :
 Use Incognito Mode : 
 
 ![image](https://github.com/user-attachments/assets/20260346-626d-4e2d-812f-f1f824c09b1f)
+
+Even without make, you can always manually compile like:
+
+```sh
+g++ <File.cpp> -o <File.exe> -std=c++17 -pthread
+```
