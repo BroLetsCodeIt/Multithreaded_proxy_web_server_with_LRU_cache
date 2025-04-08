@@ -17,3 +17,5 @@ g++ <File.cpp> -o <File.exe> -std=c++17 -pthread
 ```
 
 ![image](https://github.com/user-attachments/assets/9cc38ee8-8e6f-4bbc-aaac-6e6bb0f29430)
+
+![image](https://github.com/user-attachments/assets/4ba6e9a7-06e4-40b4-9df6-a9f0d5d773f9)
