@@ -15,3 +15,5 @@ Even without make, you can always manually compile like:
 ```sh
 g++ <File.cpp> -o <File.exe> -std=c++17 -pthread
 ```
+
+![image](https://github.com/user-attachments/assets/9cc38ee8-8e6f-4bbc-aaac-6e6bb0f29430)
